@@ -1,0 +1,14 @@
+.BackButton{
+    display: flex;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 27%;
+    background-color: black;
+    
+}
+.BackButton:hover{ 
+    background-color: rgb(0, 0, 0);
+    color: rgb(236, 4, 4);
+}

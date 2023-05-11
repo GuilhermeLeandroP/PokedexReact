@@ -1,0 +1,75 @@
+.bodyImg{
+background-image: url("../../../imgs/PokedexTest.png");
+/* background-image: url("https://data.pixiz.com/output/user/frame/preview/api/big/2/3/0/0/2200032_50ba6.jpg"); */
+/* border: solid black; */
+width: 305px;
+height:500px;
+border: solid black;
+margin-right: 1%;
+}
+
+/* https://br.pinterest.com/pin/10062799159275684/*/
+
+.bodyDesc{
+    background-image: url("../../../imgs/PokedexDesc.png");
+    width: 305px;
+    height: 500px;
+    margin: 0;
+    border: solid black;
+}
+
+.body{
+    display: inline-flex;
+    margin-left: 35%;
+    margin-top: 5%;
+    width: 1000px;
+}
+.test{
+    margin-top: 30%;
+    margin-left: 6%;
+}
+
+.intDesc {
+    margin-left: 16%;
+}
+.name{
+    font-size: large;
+    text-transform: capitalize;
+    color: white;
+}
+
+.types {
+    background-color: #4cac54;
+    width: 33%;
+    margin-top: 11%;
+    margin-left: 16.5%;
+    text-transform: capitalize;
+}
+
+.intDesc{
+    margin-top:47%;
+    font-size: 14px;    text-transform: capitalize;
+    margin-left: 1%;
+    line-height: 104%;
+    margin-left: 17%;
+    line-height: 115%;
+
+}
+.intDesc h3{
+    color: white;
+    margin-bottom: 4%;
+    margin-top: 10%;
+    
+}
+
+
+/* .bodyAbilities{
+    margin-top:0%;
+    font-size: 14px;    text-transform: capitalize;
+    margin-left: 1%;
+    line-height: 104%;
+}
+.bodyAbilities h3{
+    color: white;
+    margin-bottom: 4%;
+} */

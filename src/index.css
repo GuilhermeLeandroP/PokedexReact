@@ -1,0 +1,28 @@
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Press+Start+2P&display=swap');
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://segredodosgames.com.br/wp-content/uploads/2020/11/800px-Pokemon_FRLG_CeladonCity.png");
+  /* background-image: url("https://s2.glbimg.com/JoFWCVdTA2IYoRxYkIW44JSO6dQ=/0x0:1200x675/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/I/F/5RAHH2SwSTp7zjWyS53A/bagdex-bagmon-jogo-indie-brasileiro-pokemon-financiamento-coletivo-gameplay.jpg"); */
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+* {
+  font-family: 'Press Start 2P', cursive;
+  text-decoration: none;
+  color: black;
+}
+
+#teste:hover{
+  transform: scale(1.3);
+}

@@ -1,0 +1,18 @@
+.buttons{
+    display: inline-flex;
+    margin: 1%;
+    color: white;
+    padding: 4px;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.button {
+    margin-left: 4px;
+    margin-right: 4px;
+    color: white;
+
+}
+.leftright{
+    cursor: pointer;
+}
